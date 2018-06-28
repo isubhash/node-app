@@ -1,0 +1,25 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "Node App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Subhash",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.4",
+    "boom": "^4.2.0",
+    "good": "^7.1.0",
+    "hapi": "^16.0.1",
+    "hapi-auth-jwt2": "^7.2.4",
+    "joi": "^10.0.5",
+    "mongojs": "^2.4.0",
+    "mysql": "^2.12.0",
+    "pg": "^6.1.0",
+    "pg-hstore": "^2.3.2",
+    "relish": "^0.2.4",
+    "sequelize": "^3.27.0"
+  }
+}
